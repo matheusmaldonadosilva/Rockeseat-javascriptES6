@@ -1,0 +1,4 @@
+comando -w não funciona - exemplo: "dev": "babel ./main.js -o ./bundle.js -w"
+comando serve para atualizar os codigos - necessário atualizar com comando: yarn dev
+
+Na constante nao podemos reatribuir valor na variavel
